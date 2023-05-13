@@ -8,4 +8,10 @@ public class MainUtils {
     public static void anotherCoolMethod(){
 
     }
+
+    public static void flyingKite(){
+
+    }
+
+
 }
